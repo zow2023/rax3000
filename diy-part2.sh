@@ -32,7 +32,7 @@ git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
 #git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
 #git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 # Modify default IP
-sed -i 's/192.168.6.1/10.0.0.1/g' package/base-files/files/bin/config_generate 
+#sed -i 's/192.168.6.1/10.0.0.1/g' package/base-files/files/bin/config_generate 
 # Copyright (c) 2019-2024 P3TERX <https://p3terx.com>
 #
 # This is free software, licensed under the MIT License.
